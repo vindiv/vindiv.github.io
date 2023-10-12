@@ -15,7 +15,7 @@ typewriter
   .typeString('I work for <strong><a href="https://www.artproject.it">ArtProject Web Agency</a></strong> as frontend and backend dev.')
   .pauseFor(300)
   .deleteAll(1)
-  .typeString('I write code in PHP and Javascript. I use the PHP framework named Kohana')
+  .typeString('I write code in PHP and Javascript. I use the PHP framework named Laravel')
   .pauseFor(300)
   .deleteAll(1)
   .typeString('I don\'t have a personal portfolio, I\'m not in search for new agency')
